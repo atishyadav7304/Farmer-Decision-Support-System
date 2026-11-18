@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+geopandas
+shapely
+openmeteo-requests
+requests-cache
+retry-requests
+tensorflow-cpu
+scikit-learn
